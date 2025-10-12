@@ -250,6 +250,9 @@ Install the [Tokyo Night Alfred Theme.](https://www.alfredapp.com/extras/theme/p
 **DevTools**   
 [Tokyo Night on DevTools](https://github.com/AdelFetner/devToolsExtension) a theme for most browsers' DevTools (by [AdelFetner](https://github.com/AdelFetner))
 
+**Google Chrome**
+[tokyo-night-google-chrome](https://github.com/talohana/tokyo-night-google-chrome) a theme for Google Chrome (by [talohana](https://github.com/talohana))
+
 
 <br><br>
 **Enjoy!**
