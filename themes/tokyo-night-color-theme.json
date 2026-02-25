@@ -474,7 +474,7 @@
             }
         },
         {
-        "name": "Fix YAML block scalar, Python Logical",
+            "name": "Fix YAML block scalar, Python Logical",
             "scope": [
                 "keyword.control.flow.block-scalar.literal",
                 "keyword.control.flow.python"
@@ -493,7 +493,8 @@
                 "string.quoted.docstring.multi",
                 "string.quoted.docstring.multi.python punctuation.definition.string.begin",
                 "string.quoted.docstring.multi.python punctuation.definition.string.end",
-                "string.quoted.docstring.multi.python constant.character.escape"
+                "string.quoted.docstring.multi.python constant.character.escape",
+                "punctuation.whitespace.comment.leading.graphql"
 			],
 			"settings": {
 				"foreground": "#51597d"
